@@ -42,7 +42,9 @@ The final model achieved an accuracy of [add accuracy here]%, with the following
 - Recall: [add value here]
 - F1-Score: [add value here]
 
-- diabetes-prediction/
+## Project Structure
+
+diabetes-prediction/
 ├── data/
 │   ├── diabetes.csv          # Dataset
 ├── notebooks/
@@ -54,3 +56,9 @@ The final model achieved an accuracy of [add accuracy here]%, with the following
 ├── main.py                   # Entry point of the project
 ├── requirements.txt          # List of dependencies
 ├── README.md                 # Project documentation
+
+## License
+```bash
+
+Save this as `README.md` in the root of your project. Let me know if you need further customization!
+
