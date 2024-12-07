@@ -28,3 +28,29 @@ The project uses a public diabetes dataset available from [link to dataset if av
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/diabetes-prediction.git
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the project:
+   ```bash
+   python main.py
+
+## Results
+The final model achieved an accuracy of [add accuracy here]%, with the following metrics:
+
+- Precision: [add value here]
+- Recall: [add value here]
+- F1-Score: [add value here]
+
+- diabetes-prediction/
+├── data/
+│   ├── diabetes.csv          # Dataset
+├── notebooks/
+│   ├── EDA.ipynb             # Exploratory Data Analysis
+│   ├── Model_Training.ipynb  # Model Training
+├── src/
+│   ├── preprocess.py         # Data preprocessing scripts
+│   ├── train.py              # Model training scripts
+├── main.py                   # Entry point of the project
+├── requirements.txt          # List of dependencies
+├── README.md                 # Project documentation
